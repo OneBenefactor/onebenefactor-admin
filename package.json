@@ -29,7 +29,7 @@
     "css-vars-ponyfill": "^1.16.1",
     "cxlt-vue2-toastr": "^1.1.0",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-cookie": "^2.2.0",
     "moment": "^2.23.0",
     "node-sass": "^4.11.0",
